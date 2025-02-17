@@ -29,8 +29,7 @@ Foody is an **innovative** and **centralized** software solution designed to opt
 **reviews** through a user-friendly interface.
 
 The system includes a mobile app for customers to find restaurants, book tables, place orders, make payments and leave
-reviews, as well as a dedicated app for restaurant owners to **manage menus**, **reservations**, and **customer feedback
-**. Additionally, it supports restaurant staff by **streamlining order management** and communication between the
+reviews, as well as a dedicated app for restaurant owners to **manage menus**, **reservations**, and **customer feedback**. Additionally, it supports restaurant staff by **streamlining order management** and communication between the
 kitchen and dining area, improving efficiency and service accuracy.
 
 Foody addresses the growing need for digitalization in the restaurant industry, providing a **scalable** and *
