@@ -63,7 +63,7 @@ This structure ensures **modularity and scalability** across all components of t
 
 ## About Us
 
-We are **Giacomo, Matteo e Daniele**, three Computer Engineering students at the **Politecnico di Milano**, while
+We are **Giacomo, Matteo and Daniele**, three Computer Engineering students at the **Politecnico di Milano**, while
 simultaneously studying at **ELIS** in Rome.
 
 Foody was developed as part of our **Software Engineering course**, serving as both our **final project for the course**
